@@ -3,63 +3,13 @@
     {
       "id": 1,
       "username": "Onur",
-      "password": "onur1234",
+      "password": "Onur",
       "name": "Onur",
       "surname": "Murioğlu",
       "age": "25",
       "email": "onurmurioglu@hotmail.com"
-    },
-    {
-      "username": "sevda",
-      "password": "sevda",
-      "name": "sevda",
-      "surname": "Murioğlu",
-      "age": "25",
-      "id": 2,
-      "email": "sevda@hotmail.com"
-    },
-    {
-      "username": "1",
-      "password": "1",
-      "name": "Enes",
-      "surname": "Yağız",
-      "age": "",
-      "email": "Enes",
-      "id": 3
-    },
-    {
-      "username": "Cnr",
-      "password": "Can",
-      "name": "Caner",
-      "surname": "Caner",
-      "age": "",
-      "email": "Var",
-      "id": 4
-    },
-    {
-      "username": "Onur",
-      "password": "Onur",
-      "name": "Onur",
-      "surname": "Onur",
-      "email": "Onur",
-      "id": 5
-    },
-    {
-      "username": "Deneme",
-      "password": "Deneme",
-      "name": "Denem",
-      "surname": "Deneme",
-      "email": "Deneme",
-      "id": 6
-    },
-    {
-      "username": "Deneme",
-      "password": "Deneme",
-      "name": "Denem",
-      "surname": "Deneme",
-      "email": "Deneme",
-      "id": 7
     }
+   
   ],
   "products": [
     {
